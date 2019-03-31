@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "/home/lee/miniconda3/envs/tdd/bin/python",
+  "python.unitTest.unittestEnabled": true,
+  "python.unitTest.unittestArgs": ["-v", "-s", ".", "-p", "test_*.py"],
+  "python.unitTest.autoTestDiscoverOnSaveEnabled": true,
+  "python.unitTest.pyTestEnabled": false,
+  "python.unitTest.nosetestsEnabled": false
+}
