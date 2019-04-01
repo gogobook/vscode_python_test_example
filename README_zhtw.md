@@ -1,5 +1,5 @@
 # Visual Studio Code中的Python單元測試
-Python擴展支持unit test 使用Python的內置的單元測試框架以及pytest。雖然Nose框架本身處於維護模式，但也支持。
+Python擴展支持unit test 使用Python的內置的單元測試框架以及pytest。雖然Nose框架處於維護模式，但也支持。
 
 啟用一個測試框架之後，使用`Python: Discover Unit Tests` 命令掃描測試的項目根據當前選定的測試框架的發現模式。一旦發現，Visual Studio Code提供了各種方法來運行測試和調試測試。VS Code在Python Test Log面板中顯示單元測試輸出，包括未安裝測試框架時導致的錯誤。使用PyTest，失敗的測試也會出現在“ 問題”面板中。
 
